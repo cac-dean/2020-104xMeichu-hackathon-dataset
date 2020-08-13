@@ -20,20 +20,20 @@
     + [train-action sample](sample-data/train_action_sample.json)
     + [train-click schema](data-schema/train_click_schema.md)
     + [train-click sample](sample-data/train_click_sample.json)
-    + [資料集下載連結](2018-104-hackathon-dataset.md)
+    + [資料集下載連結](#資料集下載連結)
 * 公司與職務資料
     + 企業基本資料
         - File: company.json
         - Decription: 資料集中所使用的公司資料
         - [Company Schema](data-schema/companies_schema.md)
         - [Company Sample](sample-data/companies_sample.json)
-        - [資料集下載連結](2018-104-hackathon-dataset.md)
+        - [資料集下載連結](#資料集下載連結)
     + 職務資料
         - File: job.json
         - Description: 每一筆職務的欄位資料與該職務的文字描述
         - [Job Schema](data-schema/job_info_schema.md)
         - [Job Sample](sample-data/job_info_sample.json)
-        - [資料集下載連結](2018-104-hackathon-dataset.md)
+        - [資料集下載連結](#資料集下載連結)
     + 類目資料
         - File:
             - 科系類目: department.csv [Sample](sample-data/department_sample.csv)
@@ -41,7 +41,7 @@
             - 產業類目: industry.csv [Sample](sample-data/industry_sample.csv)
             - 職務類目: job_category.csv [Sample](sample-data/job_category_sample.csv)
         - Description: 在職務結構化欄位中的類目對照
-        - [資料集下載連結](2018-104-hackathon-dataset.md)
+        - [資料集下載連結](#資料集下載連結)
 
 
 ## 104開放資料授權條款 
